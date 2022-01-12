@@ -1,0 +1,17 @@
+.*
+*.bin
+*.o
+*.s
+
+boot.img
+PDE_entrys
+
+system
+/temp
+
+// test file
+test
+printk.c_bak
+printk.h_bak
+
+!.gitignore
